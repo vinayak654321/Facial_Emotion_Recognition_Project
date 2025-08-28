@@ -1,9 +1,9 @@
-# Facial_Emotion_Recognition_Project
+ Facial_Emotion_Recognition_Project
 Facial Emotion Detection using CNN
 
 A deep learning-based project to detect and classify facial emotions in real-time using Convolutional Neural Networks (CNN) and OpenCV.
 
-## 🔍 Project Overview
+ 🔍 Project Overview
 
 This project aims to identify human emotions from facial expressions using image data and CNN. It classifies emotions into categories like:
 - Angry
@@ -13,21 +13,20 @@ This project aims to identify human emotions from facial expressions using image
 - Sad
 - Surprise
 - Neutral
+🧠 Technologies Used
 
-## 🧠 Technologies Used
+- Python 
+- OpenCV 
+- TensorFlow / Keras 
+- Matplotlib & Seaborn 
+- NumPy & Pandas 
 
-- Python 🐍
-- OpenCV 🎥
-- TensorFlow / Keras 🤖
-- Matplotlib & Seaborn 📊
-- NumPy & Pandas 🔢
-
-## 🗂️ Dataset
+ 🗂️ Dataset
 
 - **Source:** [Kaggle FER-2013 Dataset](https://www.kaggle.com/datasets/msambare/fer2013)
 - Contains grayscale images (48x48) of facial expressions with corresponding emotion labels.
 
-## 🛠️ Project Features
+ 🛠️ Project Features
 
 - Image preprocessing and face detection using Haar cascades
 - CNN model to classify facial emotions
@@ -35,7 +34,7 @@ This project aims to identify human emotions from facial expressions using image
 - Performance evaluation (accuracy, confusion matrix)
 - Streamlit Web App (optional deployment)
 
-## 🖥️ How to Run Locally
+ 🖥️ How to Run Locally
 
 1. Clone the repo:
  git clone https://github.com/vinayak654321/Facial_Emotion_Recognition_Project.git
@@ -53,7 +52,7 @@ python realtime_emotion_detector.py
 
 
 
-## 📁 Folder Structure
+ 📁 Folder Structure
 Facial_Emotion_Recognition_Project/
 ├── dataset/
 ├── model/
@@ -62,12 +61,12 @@ Facial_Emotion_Recognition_Project/
 ├── requirements.txt
 └── README.md
 
-## 🙋‍♂️ Author
+ 🙋‍♂️ Author
 
 **Vinayak Bhise**  
 B.Tech in AI & ML  
-📍 Sangli, Maharashtra  
-🔗 [GitHub](https://github.com/vinayak654321)
+ Sangli, Maharashtra  
+ [GitHub](https://github.com/vinayak654321)
 
 ---
 
